@@ -38,10 +38,10 @@ This document provides an overview of the full-stack application developed using
 4. **Deploy React app on aws**
 
 ## Backend Configuration and Local Setup
-Instructions for setting up and running the backend locally follow this [Backend](#).
+Instructions for setting up and running the backend locally follow this [Backend](https://github.com/ProMostafa/MediTrack/blob/main/backend/installation_guide.md).
 
 ## Frontend Configuration and Local Setup
-Instructions for setting up and running the frontend locally follow this [Frontend](#).
+Instructions for setting up and running the frontend locally follow this [Frontend](https://github.com/ProMostafa/MediTrack/blob/main/frontend/installation_guide.md).
 
 ## Deployment to AWS
-Steps for deploying the application to AWS follow this [Deployment](#).
+Steps for deploying the application to AWS follow this [Deployment](https://github.com/ProMostafa/MediTrack/blob/main/deployment_guide.md).
