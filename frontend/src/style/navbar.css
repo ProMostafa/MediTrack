@@ -1,0 +1,55 @@
+.navbar {
+  background-color: #333;
+  padding: 1rem;
+}
+
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Center items vertically */
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+
+.navbar ul li {
+  display: inline;
+}
+
+.navbar ul li a,
+.navbar ul li button {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.navbar ul li button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1rem;
+}
+
+.navbar ul li button:hover,
+.navbar ul li a:hover {
+  text-decoration: underline;
+}
+
+.navbar-logo img {
+  height: 60px; /* Adjust logo size as needed */
+  animation: flip 5s linear infinite; /* Add flip animation */
+}
+
+@keyframes flip {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
