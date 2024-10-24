@@ -5,8 +5,8 @@ Please refer to this [link](https://support.netfoundry.io/hc/en-us/articles/3600
 
 ### Clone meditrack repository
 ```bash
- git ..
- cd frontend
+ git .https://github.com/ProMostafa/MediTrack.
+ cd MediTrack/frontend
 ```
 
 ### Build the Docker Image for React

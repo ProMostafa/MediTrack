@@ -5,8 +5,8 @@ Please refer to this [link](https://support.netfoundry.io/hc/en-us/articles/3600
 
 ### Clone meditrack repository
 ```bash
- git ..
- cd meditrack
+ git .https://github.com/ProMostafa/MediTrack.
+ cd meditrack/backend
 ```
 
 ### Build & run docker compose file 
